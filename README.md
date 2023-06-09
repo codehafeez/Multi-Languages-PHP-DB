@@ -1,4 +1,4 @@
-# PHP Simple Example - Multi Languages using Databse
+# PHP Simple Example - Multi Languages using Database
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.codehafeez.com/)
 
