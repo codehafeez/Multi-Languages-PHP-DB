@@ -14,8 +14,11 @@ http://localhost/Multi-Languages-PHP-DB
 ```    
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/login-using-cookies/main/Screenshots/Output-01.png)
-![](https://raw.githubusercontent.com/codehafeez/login-using-cookies/main/Screenshots/Output-02.png)
+![](https://raw.githubusercontent.com/codehafeez/Multi-Languages-PHP-DB/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/Multi-Languages-PHP-DB/main/Screenshots/Output-02.png)
+![](https://raw.githubusercontent.com/codehafeez/Multi-Languages-PHP-DB/main/Screenshots/Output-03.png)
+![](https://raw.githubusercontent.com/codehafeez/Multi-Languages-PHP-DB/main/Screenshots/Output-04.png)
+![](https://raw.githubusercontent.com/codehafeez/Multi-Languages-PHP-DB/main/Screenshots/Output-05.png)
 
 
 ## 🔗 www.codehafeez.com
